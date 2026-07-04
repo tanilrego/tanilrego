@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Tanil Rego 👋
 
-<!--
-**tanilrego/tanilrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Daeyang University with an interest in software development, databases, and web technologies.
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- JavaFX
+- C
+- SQL & MySQL
+- Web Development
+- Data Structures & Algorithms
+- Arduino Programming and Embedded Systsems Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 💳 XPay – Digital finance platform
+- 🍽️ DineTrack – Restaurant management system
+- 💰 Cash App MW – Digital payment platform
+
+## Other skills
+- Backend Development
+- Database Design
+- API Integration
